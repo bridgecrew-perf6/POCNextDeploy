@@ -12,7 +12,7 @@ export default function Home() {
   };
   var openApp = function() {
     console.log(`comnineyishops000064://${address}`);
-    window.location.replace(`comnineyishops000064://${address}`);
+    window.location.replace(`comnineyishops000064://`);
   };
   var triggerAppOpen = function(address) {
     console.log('ssdsdasjkfdsljflk;djf;');
