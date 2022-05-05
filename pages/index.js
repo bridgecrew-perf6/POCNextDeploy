@@ -48,6 +48,8 @@ export default function Home() {
           Connect Wallet12
         </button>
       )}
+            <a href="comnineyishops000064://">Open myApp</a>
     </div>
+    
   );
 }
