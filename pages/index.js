@@ -14,7 +14,8 @@ export default function Home() {
     console.log(`comnineyishops000064://${address}`);
     // window.location.replace(`comnineyishops000064://`);
     // window.location.replace(`comnineyishops000064://`);
-    window.location.href = `https://91app.page.link/?link=https://iamgreen.shop.qa.91dev.tw/v2/Search?q%3D%2522%2522%25E6%25B8%25AC%25E8%25A9%25A6%2522%2522&isi=1065810713&ibi=cc.nexdoor.nineyi.shop.dev`;
+    // window.location.href = `https://91app.page.link/?link=https://iamgreen.shop.qa.91dev.tw/v2/Search?q%3D%2522%2522%25E6%25B8%25AC%25E8%25A9%25A6%2522%2522&isi=1065810713&ibi=cc.nexdoor.nineyi.shop.dev`;
+    window.location.href = 'https://tw232qa.page.link/QHBS';
 
   };
   var triggerAppOpen = function(address) {
